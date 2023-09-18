@@ -1,21 +1,20 @@
-## Ozzy Sousa!
-
 <p align="center">
   <img src="https://github.com/ozzysousa/ozzysousa/blob/main/assets/github-header-image%20(1).png?raw=true" alt="Descrição da imagem">
 </p>
-I am a mentor, maker, programmer, creator, photographer, one-time gardener, intermittent chef, a loved partner, and I am proud to be a woman in tech. My hobbies overlap significantly with my professional life, but I've learned that it's important to take the time to work on projects for yourself. I am tolerated by two cats who continue to let me live with them.
 
-If you're interested in the story of me getting to this point, check out my [About page](https://kattni.com/about).
+## _Sou um entusiasta da tecnologia, programador, maker e apaixonado por solucionar problemas._
 
-### Current Employment
+- Desenvolvimento Web com HTML, CSS e JavaScript.
+- Programação em Python e Java.
+- Uso de frameworks como React e Node.js.
+- Automação de tarefas com scripts.
+- Git e controle de versão.
+- Resolução de problemas de programação.
+- Colaboração em projetos de código aberto.
 
-I am sponsored by [Adafruit](https://adafruit.com) to be an open source community leader, technical writer, embedded software developer with the [CircuitPython project](https://circuitpython.org), and embedded hardware designer.
+Atualmente, estou explorando novas tecnologias e expandindo meu conjunto de habilidades. Meu objetivo é contribuir para a comunidade de código aberto e aprender continuamente.
 
-I spend my time with Adafruit maintaining the [CircuitPython libraries](https://circuitpython.org/libraries), coordinating [new contributors](https://circuitpython.org/contributing), leading the [Adafruit community](https://adafru.it/discord), authoring [guides and tutorials](https://learn.adafruit.com/users/ozzysousa), and picking up whatever else needs to be done, including sometimes designing hardware [bearing my name](https://cdn-shop.adafruit.com/970x728/5378-01.jpg).
-
-### Sponsor Kattni on GitHub
-
-I am sponsored on GitHub by amazing folks who enable me to further share my knowledge.
+Se você está interessado em colaborar em projetos ou discutir tecnologia, sinta-se à vontade para entrar em contato comigo.
 
 
 [![Github Sponsorship](assets/linkedin.png)](https://www.linkedin.com/in/sousabelcher/)
