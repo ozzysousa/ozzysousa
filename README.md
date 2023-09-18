@@ -1,7 +1,8 @@
 ## Ozzy Sousa!
 
-![Kattni's GitHub Profile Header Image](https://github.com/ozzysousa/ozzysousa/blob/main/assets/github-header-image%20(1).png?raw=true)
-
+<p align="center">
+  <img src="https://github.com/ozzysousa/ozzysousa/blob/main/assets/github-header-image%20(1).png?raw=true" alt="Descrição da imagem">
+</p>
 I am a mentor, maker, programmer, creator, photographer, one-time gardener, intermittent chef, a loved partner, and I am proud to be a woman in tech. My hobbies overlap significantly with my professional life, but I've learned that it's important to take the time to work on projects for yourself. I am tolerated by two cats who continue to let me live with them.
 
 If you're interested in the story of me getting to this point, check out my [About page](https://kattni.com/about).
@@ -16,7 +17,13 @@ I spend my time with Adafruit maintaining the [CircuitPython libraries](https://
 
 I am sponsored on GitHub by amazing folks who enable me to further share my knowledge.
 
-[![Github Sponsorship](assets/GitHub_Sponsorship_button.png)](https://github.com/sponsors/ozzysousa)
+
+[![Github Sponsorship](assets/linkedin.png)](https://www.linkedin.com/in/sousabelcher/)
+
+
+[![Github Sponsorship](assets/github.png)](https://github.com/ozzysousa)
+
+[![Github Sponsorship](assets/whatsapp.png)](https://wa.me/5561992567936?text=ol%C3%A1+Ozzy%2C+v%C3%AD+seu+perfil+no+Github...)
 
 
 
