@@ -1,4 +1,4 @@
-## Meet Kattni!
+## Ozzy Sousa!
 
 ![Kattni's GitHub Profile Header Image](assets/kattni-github-profile-header-image.png)
 
@@ -10,13 +10,13 @@ If you're interested in the story of me getting to this point, check out my [Abo
 
 I am sponsored by [Adafruit](https://adafruit.com) to be an open source community leader, technical writer, embedded software developer with the [CircuitPython project](https://circuitpython.org), and embedded hardware designer.
 
-I spend my time with Adafruit maintaining the [CircuitPython libraries](https://circuitpython.org/libraries), coordinating [new contributors](https://circuitpython.org/contributing), leading the [Adafruit community](https://adafru.it/discord), authoring [guides and tutorials](https://learn.adafruit.com/users/kattni), and picking up whatever else needs to be done, including sometimes designing hardware [bearing my name](https://cdn-shop.adafruit.com/970x728/5378-01.jpg).
+I spend my time with Adafruit maintaining the [CircuitPython libraries](https://circuitpython.org/libraries), coordinating [new contributors](https://circuitpython.org/contributing), leading the [Adafruit community](https://adafru.it/discord), authoring [guides and tutorials](https://learn.adafruit.com/users/ozzysousa), and picking up whatever else needs to be done, including sometimes designing hardware [bearing my name](https://cdn-shop.adafruit.com/970x728/5378-01.jpg).
 
 ### Sponsor Kattni on GitHub
 
 I am sponsored on GitHub by amazing folks who enable me to further share my knowledge.
 
-[![Github Sponsorship](assets/GitHub_Sponsorship_button.png)](https://github.com/sponsors/kattni)
+[![Github Sponsorship](assets/GitHub_Sponsorship_button.png)](https://github.com/sponsors/ozzysousa)
 
 
 
