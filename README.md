@@ -2,13 +2,25 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ozzysousa.ozzysousa)  [![](https://img.shields.io/github/followers/ozzysousa?label=Follow&style=social)](https://github.com/ozzysousa)
 
-![Imagem Esticada](https://github.com/ozzysousa/ozzysousa/blob/main/assets/github-header-image%20(1).png?raw=true)
+
+<img src="https://github.com/ozzysousa/ozzysousa/blob/main/assets/github-header-image%20(1).png" alt="Imagem Full Width" style="width: 100%; display: block;">
 
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ozzysousa)](https://github.com/ozzysousa)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ozzysousa/)](https://www.linkedin.com/in/sousabelcher/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BellacosaVagner)](https://twitter.com/sousabelcher)
+<a href="https://api.whatsapp.com/send?phone=55192567936&" alt="WhatsApp">
+<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+<a href="https://www.instagram.com/sousabelcher/" alt="Instagram">
+<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+
+
+# Sobre Mim:
 Olá! Sou Ozzy Sousa, um programador apaixonado por tecnologia e resolução de problemas. Com 34 anos de idade, estou comprometido em criar soluções criativas por meio do desenvolvimento de software.
 
 [![](https://github-readme-stats-sigma-five.vercel.app/api?username=ozzysousa&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/ozzysousa)
 
+# Habilidades:
 - Desenvolvimento Web com HTML, CSS e JavaScript.
 - Programação em Python e Java.
 - Uso de frameworks como React e Node.js.
@@ -17,7 +29,13 @@ Olá! Sou Ozzy Sousa, um programador apaixonado por tecnologia e resolução de 
 - Resolução de problemas de programação.
 - Colaboração em projetos de código aberto.
 
+# Lnguagens mais usadas:
+| | | |
+| :---: |  :---: |  :---: |
+|  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ozzysousa&theme=blue-green) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
 Atualmente, estou explorando novas tecnologias e expandindo meu conjunto de habilidades. Meu objetivo é contribuir para a comunidade de código aberto e aprender continuamente.
+------
 <table >
   <tr align="center">
     <td ><img src="https://camo.githubusercontent.com/b9fe9f8e52c6fd30d814c24f3eb71cb09d7f5bc82d7f67a384055de93fdbb0bf/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352d2d76312e706e67" width="48x"/></td>
@@ -48,7 +66,7 @@ Atualmente, estou explorando novas tecnologias e expandindo meu conjunto de habi
 </table>
 
 **Se você está interessado em colaborar em projetos ou discutir tecnologia, sinta-se à vontade para entrar em contato comigo.**
-
+------
 
 [![Github Sponsorship](assets/linkedin.png)](https://www.linkedin.com/in/sousabelcher/)
 
@@ -58,10 +76,7 @@ Atualmente, estou explorando novas tecnologias e expandindo meu conjunto de habi
 [![Github Sponsorship](assets/whatsapp.png)](https://wa.me/5561992567936?text=ol%C3%A1+Ozzy%2C+v%C3%AD+seu+perfil+no+Github...)
 
 
-
-
-
-
+> :Buttons
 <!--
 ![Metrics](https://metrics.lecoq.io/kattni?template=classic&notable=1&languages=1&achievements=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=America%2FDetroit)
 
