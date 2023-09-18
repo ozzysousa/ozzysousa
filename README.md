@@ -1,6 +1,11 @@
-## _"Sou um entusiasta da tecnologia, programador, maker e apaixonado por solucionar problemas"._
+## _"I am a technology enthusiast, Junior programmer, maker, and passionate problem solver"._
 
-![](https://visitor-badge.laobi.icu/badge?page_id=ozzysousa.ozzysousa)  [![](https://img.shields.io/github/followers/ozzysousa?label=Follow&style=social)](https://github.com/ozzysousa)
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ozzysousa.ozzysousa" alt="Visitors">
+  <a href="https://github.com/ozzysousa" target="_blank">
+    <img src="https://img.shields.io/github/followers/ozzysousa?label=Follow&style=social" alt="Followers">
+  </a>
+</div>
 
 
 <img src="https://github.com/ozzysousa/ozzysousa/blob/main/assets/github-header-image%20(1).png" alt="Imagem Full Width" style="width: 100%; display: block;">
@@ -15,26 +20,27 @@
 <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 
 
-# Sobre Mim:
-Olá! Sou Ozzy Sousa, um programador apaixonado por tecnologia e resolução de problemas. Com 34 anos de idade, estou comprometido em criar soluções criativas por meio do desenvolvimento de software.
+# About Me:
+## 👋 Hello! Welcome to my profile!
+I am Oziel Sousa, a Junior Developer passionate about technology and problem-solving. At 34 years old, I am committed to creating creative solutions through software development.
 
 [![](https://github-readme-stats-sigma-five.vercel.app/api?username=ozzysousa&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/ozzysousa)
 
-# Habilidades:
-- Desenvolvimento Web com HTML, CSS e JavaScript.
-- Programação em Python e Java.
-- Uso de frameworks como React e Node.js.
-- Automação de tarefas com scripts.
-- Git e controle de versão.
-- Resolução de problemas de programação.
-- Colaboração em projetos de código aberto.
+# Skills:
+- Web development with HTML, CSS, and JavaScript.
+- Programming in Python and Java.
+- Usage of frameworks like React and Node.js.
+- Automation of tasks with scripts.
+- Git and version control.
+- Programming problem-solving.
+- Collaboration on open-source projects.
 
-# Lnguagens mais usadas:
+# Most Used Languages:
 | | | |
 | :---: |  :---: |  :---: |
 |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ozzysousa&theme=blue-green) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
-Atualmente, estou explorando novas tecnologias e expandindo meu conjunto de habilidades. Meu objetivo é contribuir para a comunidade de código aberto e aprender continuamente.
+Currently, I am exploring new technologies and expanding my skill set. My goal is to contribute to the open-source community and continue learning.
 ------
 <table >
   <tr align="center">
@@ -65,8 +71,8 @@ Atualmente, estou explorando novas tecnologias e expandindo meu conjunto de habi
    </tr>
 </table>
 
-# Fale comigo:
-**Se você está interessado em colaborar em projetos ou discutir tecnologia, sinta-se à vontade para entrar em contato comigo.**
+# Contact Me:
+**If you're interested in collaborating on projects or discussing technology, please feel free to reach out to me.**
 ------
 
 [![Github Sponsorship](assets/linkedin.png)](https://www.linkedin.com/in/sousabelcher/)
@@ -76,11 +82,17 @@ Atualmente, estou explorando novas tecnologias e expandindo meu conjunto de habi
 
 [![Github Sponsorship](assets/whatsapp.png)](https://wa.me/5561992567936?text=ol%C3%A1+Ozzy%2C+v%C3%AD+seu+perfil+no+Github...)
 
+
+# My Resumes:
+**If you're interested in learning more about my experience and skills, feel free to:**
+------
+
+[![Resume Online](https://img.shields.io/badge/Resume%20Online-black?style=for-the-badge&logo=web)](https://ozzysousa.github.io/cv/)
+[![Download PDF](https://img.shields.io/badge/Download%20PDF-black?style=for-the-badge&logo=pdf)](https://github.com/ozzysousa/cv/blob/main/.github/workflows/Profile%20new.pdf)
+
+**"Enjoy some fun with this exciting game! 😄🎮"**
+------
 ![Gits Snake Revenge Animation](https://github.com/VagnerBellacosa/VagnerBellacosa/blob/main/github-contribution-grid-snake.svg)
-
-# Meus CV Online:
-
-
 <!--
 ![Metrics](https://metrics.lecoq.io/kattni?template=classic&notable=1&languages=1&achievements=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=America%2FDetroit)
 
