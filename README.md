@@ -1,9 +1,9 @@
 ## _"Sou um entusiasta da tecnologia, programador, maker e apaixonado por solucionar problemas"._
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ozzysousa.ozzysousa)  [![](https://img.shields.io/github/followers/ozzysousa?label=Follow&style=social)](https://github.com/ozzysousa)
-<p align="center">
-  <img src="https://github.com/ozzysousa/ozzysousa/blob/main/assets/github-header-image%20(1).png?raw=true" alt="Descrição da imagem">
-</p>
+
+![Imagem Esticada](https://github.com/ozzysousa/ozzysousa/blob/main/assets/github-header-image%20(1).png?raw=true)
+
 
 Olá! Sou Ozzy Sousa, um programador apaixonado por tecnologia e resolução de problemas. Com 34 anos de idade, estou comprometido em criar soluções criativas por meio do desenvolvimento de software.
 
