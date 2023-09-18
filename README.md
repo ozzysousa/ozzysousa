@@ -1,6 +1,6 @@
 ## Ozzy Sousa!
 
-![Kattni's GitHub Profile Header Image](assets/kattni-github-profile-header-image.png)
+![Kattni's GitHub Profile Header Image](assets/github-header-image (1).png)
 
 I am a mentor, maker, programmer, creator, photographer, one-time gardener, intermittent chef, a loved partner, and I am proud to be a woman in tech. My hobbies overlap significantly with my professional life, but I've learned that it's important to take the time to work on projects for yourself. I am tolerated by two cats who continue to let me live with them.
 
