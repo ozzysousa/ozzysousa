@@ -65,6 +65,7 @@ Atualmente, estou explorando novas tecnologias e expandindo meu conjunto de habi
    </tr>
 </table>
 
+# Fale comigo:
 **Se você está interessado em colaborar em projetos ou discutir tecnologia, sinta-se à vontade para entrar em contato comigo.**
 ------
 
@@ -75,8 +76,11 @@ Atualmente, estou explorando novas tecnologias e expandindo meu conjunto de habi
 
 [![Github Sponsorship](assets/whatsapp.png)](https://wa.me/5561992567936?text=ol%C3%A1+Ozzy%2C+v%C3%AD+seu+perfil+no+Github...)
 
+![Gits Snake Revenge Animation](https://github.com/VagnerBellacosa/VagnerBellacosa/blob/main/github-contribution-grid-snake.svg)
 
-> :Buttons
+# Meus CV Online:
+
+
 <!--
 ![Metrics](https://metrics.lecoq.io/kattni?template=classic&notable=1&languages=1&achievements=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=America%2FDetroit)
 
