@@ -75,7 +75,7 @@ Currently, I am exploring new technologies and expanding my skill set. My goal i
 **If you're interested in collaborating on projects or discussing technology, please feel free to reach out to me.**
 ------
 
-[![Github Sponsorship](assets/linkedin.png)](https://www.linkedin.com/in/sousabelcher/)
+[![Github Sponsorship](assets/linkedin.png)](https://www.linkedin.com/in/ozzysousa/)
 
 
 [![Github Sponsorship](assets/github.png)](https://github.com/ozzysousa)
