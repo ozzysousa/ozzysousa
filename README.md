@@ -87,7 +87,7 @@ Currently, I am exploring new technologies and expanding my skill set. My goal i
 **If you're interested in learning more about my experience and skills, feel free to:**
 ------
 
-[![Resume Online](https://img.shields.io/badge/Resume%20Online-black?style=for-the-badge&logo=web)](https://ozzysousa.github.io/cv/)
+[![Resume Online](https://img.shields.io/badge/Resume%20Online-black?style=for-the-badge&logo=web)](https://github.com/ozzysousa/Curriculo)
 [![Download PDF](https://img.shields.io/badge/Download%20PDF-black?style=for-the-badge&logo=pdf)](https://github.com/ozzysousa/cv/blob/main/.github/workflows/Profile%20new.pdf)
 
 **"Enjoy some fun with this exciting game! 😄🎮"**
